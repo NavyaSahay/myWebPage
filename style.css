@@ -1,0 +1,29 @@
+body{
+	font-family: helvetica;
+	background-color: lightblue;
+}
+
+img{
+	float: left;
+	width: 33%;
+	border: 4px double dodgerblue;
+
+}
+
+div{
+	float: left;
+	margin : 23px;
+}
+
+hr{
+	background-color: deepskyblue;
+	height: 1px;
+	border-top: none;
+
+}
+
+mark{
+	background-color: deepskyblue;
+	color: black;
+	padding: 10px;
+}

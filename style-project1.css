@@ -1,0 +1,14 @@
+body {
+	background-color: darkturquoise;
+	text-align: center;
+}
+
+img{
+	width: 350px;
+	height: 350px;
+}
+
+h3 {
+	font-family: Courier;
+	font-size: 35pt;
+}
